@@ -1,4 +1,4 @@
-from generator import *
+from generator import comparison
 
 
 alpha_numbers = {
